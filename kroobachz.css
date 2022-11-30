@@ -1,6 +1,8 @@
 * { box-sizing: border-box; }
 body {
   font: 16px Arial;
+  font-family: 'line_seed_sans_th';
+  font-weight: bold;   /* กรณีอยากได้ตัวหนาเปิดตัวนี้มาใช้ */
 }
 .autocomplete {
   /*the container must be positioned relative:*/
