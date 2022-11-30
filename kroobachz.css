@@ -2,7 +2,7 @@
 body {
   font: 16px Arial;
   font-family: 'line_seed_sans_th';
-  font-weight: bold;   /* กรณีอยากได้ตัวหนาเปิดตัวนี้มาใช้ */
+  font-weight: bold;   /* กรณีอยากได้ตัวหนาเปิดตัวนี้มาใช้2 */
 }
 .autocomplete {
   /*the container must be positioned relative:*/
